@@ -1,0 +1,1 @@
+# Local-shop-daily-sales-tracker
