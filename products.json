@@ -1,0 +1,362 @@
+[
+  {
+    "id": "prod_atta_5kg",
+    "name": "Ashirvaad Shudh Chakki Atta",
+    "category": "Grains & Pulses",
+    "cost_price": 210.00,
+    "selling_price": 245.00,
+    "unit": "pack",
+    "initial_stock": 25,
+    "reorder_level": 5
+  },
+  {
+    "id": "prod_rice_5kg",
+    "name": "Daawat Rozana Basmati Rice",
+    "category": "Grains & Pulses",
+    "cost_price": 320.00,
+    "selling_price": 375.00,
+    "unit": "pack",
+    "initial_stock": 20,
+    "reorder_level": 4
+  },
+  {
+    "id": "prod_toor_dal_1kg",
+    "name": "Tata Sampann Toor Dal",
+    "category": "Grains & Pulses",
+    "cost_price": 135.00,
+    "selling_price": 160.00,
+    "unit": "kg",
+    "initial_stock": 30,
+    "reorder_level": 6
+  },
+  {
+    "id": "prod_chana_1kg",
+    "name": "Tata Sampann Kabuli Chana",
+    "category": "Grains & Pulses",
+    "cost_price": 110.00,
+    "selling_price": 130.00,
+    "unit": "kg",
+    "initial_stock": 25,
+    "reorder_level": 5
+  },
+  {
+    "id": "prod_tata_salt",
+    "name": "Tata Salt",
+    "category": "Grains & Pulses",
+    "cost_price": 22.00,
+    "selling_price": 28.00,
+    "unit": "kg",
+    "initial_stock": 50,
+    "reorder_level": 10
+  },
+  {
+    "id": "prod_mustard_oil",
+    "name": "Fortune Mustard Oil",
+    "category": "Oils & Ghee",
+    "cost_price": 140.00,
+    "selling_price": 165.00,
+    "unit": "litre",
+    "initial_stock": 20,
+    "reorder_level": 5
+  },
+  {
+    "id": "prod_soya_oil",
+    "name": "Fortune Soya Health Oil",
+    "category": "Oils & Ghee",
+    "cost_price": 115.00,
+    "selling_price": 135.00,
+    "unit": "litre",
+    "initial_stock": 24,
+    "reorder_level": 6
+  },
+  {
+    "id": "prod_amul_ghee",
+    "name": "Amul Pure Ghee",
+    "category": "Oils & Ghee",
+    "cost_price": 570.00,
+    "selling_price": 630.00,
+    "unit": "litre",
+    "initial_stock": 15,
+    "reorder_level": 3
+  },
+  {
+    "id": "prod_amul_milk",
+    "name": "Amul Gold Milk",
+    "category": "Dairy & Eggs",
+    "cost_price": 60.00,
+    "selling_price": 66.00,
+    "unit": "litre",
+    "initial_stock": 40,
+    "reorder_level": 8
+  },
+  {
+    "id": "prod_amul_butter",
+    "name": "Amul Butter",
+    "category": "Dairy & Eggs",
+    "cost_price": 235.00,
+    "selling_price": 260.00,
+    "unit": "pack",
+    "initial_stock": 18,
+    "reorder_level": 4
+  },
+  {
+    "id": "prod_amul_paneer",
+    "name": "Amul Taaza Paneer",
+    "category": "Dairy & Eggs",
+    "cost_price": 72.00,
+    "selling_price": 85.00,
+    "unit": "pack",
+    "initial_stock": 20,
+    "reorder_level": 5
+  },
+  {
+    "id": "prod_tata_tea",
+    "name": "Tata Tea Premium",
+    "category": "Beverages",
+    "cost_price": 180.00,
+    "selling_price": 215.00,
+    "unit": "pack",
+    "initial_stock": 15,
+    "reorder_level": 4
+  },
+  {
+    "id": "prod_bru_coffee",
+    "name": "Bru Instant Coffee",
+    "category": "Beverages",
+    "cost_price": 145.00,
+    "selling_price": 175.00,
+    "unit": "pack",
+    "initial_stock": 15,
+    "reorder_level": 3
+  },
+  {
+    "id": "prod_coke_1.25",
+    "name": "Coca Cola 1.25L",
+    "category": "Beverages",
+    "cost_price": 55.00,
+    "selling_price": 70.00,
+    "unit": "piece",
+    "initial_stock": 30,
+    "reorder_level": 8
+  },
+  {
+    "id": "prod_bisleri_1l",
+    "name": "Bisleri Water Bottle 1L",
+    "category": "Beverages",
+    "cost_price": 12.00,
+    "selling_price": 20.00,
+    "unit": "piece",
+    "initial_stock": 100,
+    "reorder_level": 20
+  },
+  {
+    "id": "prod_maggi_12p",
+    "name": "Maggi 2-Min Noodles 12p",
+    "category": "Snacks & Foods",
+    "cost_price": 144.00,
+    "selling_price": 168.00,
+    "unit": "pack",
+    "initial_stock": 25,
+    "reorder_level": 5
+  },
+  {
+    "id": "prod_marie_gold",
+    "name": "Britannia Marie Gold 250g",
+    "category": "Snacks & Foods",
+    "cost_price": 28.00,
+    "selling_price": 35.00,
+    "unit": "pack",
+    "initial_stock": 40,
+    "reorder_level": 8
+  },
+  {
+    "id": "prod_lays_salted",
+    "name": "Lay's Classic Salted 50g",
+    "category": "Snacks & Foods",
+    "cost_price": 16.00,
+    "selling_price": 20.00,
+    "unit": "pack",
+    "initial_stock": 50,
+    "reorder_level": 10
+  },
+  {
+    "id": "prod_kurkure",
+    "name": "Kurkure Masala Munch 90g",
+    "category": "Snacks & Foods",
+    "cost_price": 16.00,
+    "selling_price": 20.00,
+    "unit": "pack",
+    "initial_stock": 50,
+    "reorder_level": 10
+  },
+  {
+    "id": "prod_haldirams_bhujia",
+    "name": "Haldiram's Bhujia Sev 150g",
+    "category": "Snacks & Foods",
+    "cost_price": 38.00,
+    "selling_price": 45.00,
+    "unit": "pack",
+    "initial_stock": 30,
+    "reorder_level": 6
+  },
+  {
+    "id": "prod_ketchup_1kg",
+    "name": "Kissan Tomato Ketchup 1kg",
+    "category": "Snacks & Foods",
+    "cost_price": 110.00,
+    "selling_price": 135.00,
+    "unit": "pack",
+    "initial_stock": 15,
+    "reorder_level": 3
+  },
+  {
+    "id": "prod_dairy_milk",
+    "name": "Cadbury Dairy Milk Silk 60g",
+    "category": "Snacks & Foods",
+    "cost_price": 58.00,
+    "selling_price": 70.00,
+    "unit": "piece",
+    "initial_stock": 30,
+    "reorder_level": 6
+  },
+  {
+    "id": "prod_dettol_wash",
+    "name": "Dettol Liquid Handwash",
+    "category": "Personal Care",
+    "cost_price": 75.00,
+    "selling_price": 90.00,
+    "unit": "piece",
+    "initial_stock": 25,
+    "reorder_level": 5
+  },
+  {
+    "id": "prod_lifebuoy_soap",
+    "name": "Lifebuoy Total Soap 125g",
+    "category": "Personal Care",
+    "cost_price": 28.00,
+    "selling_price": 34.00,
+    "unit": "piece",
+    "initial_stock": 50,
+    "reorder_level": 10
+  },
+  {
+    "id": "prod_colgate",
+    "name": "Colgate MaxFresh 150g",
+    "category": "Personal Care",
+    "cost_price": 82.00,
+    "selling_price": 98.00,
+    "unit": "piece",
+    "initial_stock": 30,
+    "reorder_level": 6
+  },
+  {
+    "id": "prod_shampoo",
+    "name": "Clinic Plus Shampoo 175ml",
+    "category": "Personal Care",
+    "cost_price": 95.00,
+    "selling_price": 110.00,
+    "unit": "piece",
+    "initial_stock": 20,
+    "reorder_level": 4
+  },
+  {
+    "id": "prod_hair_oil",
+    "name": "Parachute Coconut Oil 250ml",
+    "category": "Personal Care",
+    "cost_price": 98.00,
+    "selling_price": 115.00,
+    "unit": "piece",
+    "initial_stock": 25,
+    "reorder_level": 5
+  },
+  {
+    "id": "prod_pears_soap",
+    "name": "Pears Pure & Gentle Soap",
+    "category": "Personal Care",
+    "cost_price": 45.00,
+    "selling_price": 55.00,
+    "unit": "piece",
+    "initial_stock": 30,
+    "reorder_level": 6
+  },
+  {
+    "id": "prod_vim_liquid",
+    "name": "Vim Dishwash Liquid 500ml",
+    "category": "Household Care",
+    "cost_price": 90.00,
+    "selling_price": 105.00,
+    "unit": "piece",
+    "initial_stock": 20,
+    "reorder_level": 4
+  },
+  {
+    "id": "prod_surf_excel",
+    "name": "Surf Excel Easy Wash 1kg",
+    "category": "Household Care",
+    "cost_price": 125.00,
+    "selling_price": 148.00,
+    "unit": "pack",
+    "initial_stock": 20,
+    "reorder_level": 4
+  },
+  {
+    "id": "prod_harpic",
+    "name": "Harpic Toilet Cleaner 500m",
+    "category": "Household Care",
+    "cost_price": 80.00,
+    "selling_price": 95.00,
+    "unit": "piece",
+    "initial_stock": 25,
+    "reorder_level": 5
+  },
+  {
+    "id": "prod_lizol",
+    "name": "Lizol Floor Cleaner 500ml",
+    "category": "Household Care",
+    "cost_price": 88.00,
+    "selling_price": 105.00,
+    "unit": "piece",
+    "initial_stock": 20,
+    "reorder_level": 4
+  },
+  {
+    "id": "prod_exo_bar",
+    "name": "Exo Round Dishwash Bar 250",
+    "category": "Household Care",
+    "cost_price": 24.00,
+    "selling_price": 30.00,
+    "unit": "piece",
+    "initial_stock": 40,
+    "reorder_level": 8
+  },
+  {
+    "id": "prod_notebook_a4",
+    "name": "Classmate Notebook A4",
+    "category": "Stationery & Misc",
+    "cost_price": 50.00,
+    "selling_price": 65.00,
+    "unit": "piece",
+    "initial_stock": 35,
+    "reorder_level": 7
+  },
+  {
+    "id": "prod_pencils_10p",
+    "name": "Nataraj Pencils 10-pack",
+    "category": "Stationery & Misc",
+    "cost_price": 40.00,
+    "selling_price": 50.00,
+    "unit": "pack",
+    "initial_stock": 20,
+    "reorder_level": 4
+  },
+  {
+    "id": "prod_agarbatti",
+    "name": "Mysore Sandal Agarbatti",
+    "category": "Stationery & Misc",
+    "cost_price": 60.00,
+    "selling_price": 75.00,
+    "unit": "pack",
+    "initial_stock": 30,
+    "reorder_level": 6
+  }
+]
